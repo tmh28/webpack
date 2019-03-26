@@ -1,0 +1,14 @@
+/* module.exports = require('./1-single/webpack.config.js') */
+/* module.exports = require('./2-multiple/webpack.config.js') */
+/* module.exports = require('./3-css/webpack.config.js') */
+/* module.exports = require('./4-less/webpack.config.js') */
+/* module.exports = require('./5-img/webpack.config.js') */
+/* module.exports = require('./6-uglify/webpack.config.js') */
+/* module.exports = require('./7-html/webpack.config.js') */
+/* module.exports = require('./8-jquery/webpack.config.js') */
+module.exports = require('./9-extract-css/webpack.config.js')
+/* module.exports = require('./10-es6/webpack.config.js') */
+/* module.exports=require('./11-server/webpack.config.js') */
+/*module.exports=require('./12-common/webpack.config.js')*/
+/*module.exports=require('./13-async/webpack.config.js')*/
+/*module.exports=require('./14-eslint/webpack.config.js')*/
